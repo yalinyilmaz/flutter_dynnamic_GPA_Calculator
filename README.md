@@ -1,4 +1,4 @@
-# dinamik_not_ort_hesaplama
+# dynamic_gpa_calculator
 
 A new Flutter project.
 
